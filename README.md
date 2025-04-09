@@ -10,14 +10,6 @@
 - Retry on failure with exponential backoff
 - Logs and optional UI dashboard (WIP)
 
-## Getting Started
-```bash
-git clone <your_repo_url>
-cd nodeq
-npm install
-npm run dev
-```
-
 Visit `http://localhost:3000/` to see the server running.
 
 ---
@@ -42,16 +34,5 @@ NodeQ is designed to simulate the kind of internal infrastructure tools used in 
 - Periodic clean-up jobs
 - Webhook/event handling system
 
-### 🧠 What You'll Learn:
-- Node.js, Express API design
-- Async processing, retry mechanisms
-- Redis/MongoDB for queuing
-- Logging, job state transitions
-- Optional: React & Tailwind for admin UI
-
-### 💼 Resume Value:
-> "Built a distributed job queue system with retry logic, async processing, and a live dashboard using Node.js and React."
-
-This project can serve as both a **systems-level showcase** for backend/MTS roles and a **fullstack demonstration** if extended with the optional dashboard.
 
 ---
